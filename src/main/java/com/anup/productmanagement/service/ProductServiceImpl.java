@@ -1,7 +1,7 @@
 package com.anup.productmanagement.service;
 
-import com.anup.productmanagement.entity.Product;
 import com.anup.productmanagement.model.ProductRequest;
+import com.anup.productmanagement.entity.Product;
 import com.anup.productmanagement.repository.ProductRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
